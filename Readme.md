@@ -4,7 +4,7 @@ Welcome to my personal portfolio website, showcasing end-to-end data analytics p
 
 ## Live Portfolio
 
-🌐 Portfolio: https://insightzbyhussain.github.io/InsightzByHussain/
+🌐 Portfolio: https://insightzbyhussain.github.io
 
 ## About
 
